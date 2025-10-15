@@ -1,0 +1,5 @@
+shiny
+sentence_transformers
+scikit-learn
+pandas
+datetime

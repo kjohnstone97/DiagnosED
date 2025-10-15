@@ -1,0 +1,984 @@
+,ECDS_SearchTerms,SNOMED_UK_Preferred_Term
+0,wound lac incised bite head scalp laceration face,Open wound of scalp
+16,wound lac incised bite face laceration head ear pinna lobe,Open wound of ear
+49,wound lac incised bite face laceration head nose nasal,Open wound of nose
+70,wound lac incised bite face laceration head lip,Open wound of lip
+87,wound lac incised bite face laceration head mouth gum palate,Open wound in mouth
+168,wound lac incised bite face laceration head tongue mouth,Open wound of tongue
+178,wound lac incised bite face laceration head frenulum tongue,Split frenulum of tongue
+179,wound lac incised bite face laceration head cheek forehead chin,Open wound of face
+277,wound lac incised bite neck laceration face head,Open wound of neck
+362,wound lac incised bite thorax laceration back trunk,Open wound of chest wall
+406,wound lac incised bite thorax laceration back trunk,Open wound of back
+458,wound lac incised bite abdomen laceration stomach tummy open wound of anterior abdominal wall,Open wound of anterior abdominal wall
+478,wound lac incised bite perineum laceration genital penis vagina vulva testis testes balls,Open wound of genital organ
+556,wound lac incised bite perineum laceration genital penis vagina vulva testis testes balls,Open wound of pelvic region
+602,wound lac incised bite shoulder laceration neck thorax trunk,Open wound of shoulder region
+689,wound lac incised bite upper arm laceration forearm,Open wound of upper arm
+743,wound lac incised bite forearm laceration elbow,Open wound of elbow
+784,wound lac incised bite forearm laceration wrist arm,Open wound of forearm
+850,wound lac incised bite hand laceration finger thumb,Open wound of wrist
+918,wound lac incised bite hand laceration finger thumb,Open wound of hand
+1101,wound lac incised bite thumb laceration finger tip,Open wound of thumb
+1152,wound lac incised bite finger laceration thumb tip,Open wound of finger
+1288,wound lac incised bite thigh laceration groin leg femur,Open wound of thigh
+1349,wound lac incised bite knee laceration patella kneecap,Open wound of knee
+1409,wound lac incised bite lower leg laceration ankle,Open wound of lower leg
+1483,wound lac incised bite foot laceration toe,Open wound of foot
+1575,wound lac incised bite toe laceration foot,Open wound of toe
+1646,abrasion head face soft tissue injury,Abrasion of scalp
+1653,abrasion pinna ear soft tissue injury,Abrasion of skin of ear
+1659,abrasion nose soft tissue injury,Abrasion of skin of nose
+1661,abrasion face head soft tissue injury,Abrasion of skin of circumoral region of face
+1662,abrasion tongue mouth face head soft tissue injury,Superficial injury of mouth
+1700,abrasion face head soft tissue injury cheek forehead chin,Abrasion of face
+1717,abrasion neck throat whiplash head soft tissue injury neck vertebral,Abrasion of skin of neck
+1720,abrasion thorax back trunk soft tissue injury,Abrasion of skin of chest
+1731,abrasion back thorax trunk soft tissue injury,Abrasion of skin of back
+1740,abrasion abdomen trunk soft tissue injury,Abrasion of abdomen
+1741,abrasion pelvic groin perineum penis vagina vulva testes balls testis soft tissue injury,Abrasion of genitalia
+1747,abrasion pelvic groin perineum penis vagina vulva testes balls testis soft tissue injury,Abrasion of pelvic region
+1764,abrasion shoulder neck thorax trunk soft tissue injury,Abrasion of skin of shoulder
+1770,abrasion upper arm soft tissue injury,Abrasion of skin of upper arm
+1776,abrasion elbow olecranon soft tissue injury,Abrasion of skin of elbow
+1782,abrasion forearm arm soft tissue injury,Abrasion of skin of forearm
+1788,abrasion hand wrist soft tissue injury,Abrasion of skin of wrist
+1796,abrasion hand wrist soft tissue injury,Abrasion of skin of hand
+1804,abrasion thumb soft tissue injury,Abrasion of skin of thumb
+1809,abrasion finger soft tissue injury,Abrasion of skin of finger
+1832,abrasion thigh soft tissue injury,Abrasion of skin of thigh
+1838,abrasion knee soft tissue injury,Abrasion of skin of knee
+1844,abrasion lower leg soft tissue injury,Abrasion of skin of lower leg
+1850,abrasion ankle foot soft tissue injury,Abrasion of skin of ankle
+1856,abrasion ankle foot soft tissue injury,Abrasion of skin of foot
+1864,abrasion toe subungal haematoma soft tissue injury,Abrasion of skin of toe
+1887,bruise contusion head face soft tissue injury,Contusion of head
+1914,bruise contusion pinna ear soft tissue injury,Contusion of ear
+1918,bruise contusion nose soft tissue injury,Contusion of nose
+1920,bruise contusion face head soft tissue injury,Contusion of lip
+1922,bruise contusion mouth tongue face head soft tissue injury,Contusion of mouth
+1935,bruise contusion face head soft tissue injury cheek forehead chin,Contusion of face
+1963,bruise contusion neck throat whiplash head soft tissue injury neck vertebral,Contusion of neck
+1971,bruise contusion thorax back trunk soft tissue injury,Contusion of chest
+1984,bruise contusion back thorax trunk soft tissue injury,Contusion of back
+1998,bruise contusion abdomen trunk soft tissue injury,Contusion of abdomen
+2036,bruise contusion pelvic groin perineum penis vagina vulva testes balls testis soft tissue injury,Contusion of genital organ
+2044,bruise contusion pelvic groin perineum penis vagina vulva testes balls testis soft tissue injury,Contusion of pelvic region
+2048,bruise contusion shoulder neck thorax trunk soft tissue injury,Contusion of shoulder region
+2055,bruise contusion upper arm soft tissue injury,Contusion of upper arm
+2058,bruise contusion elbow olecranon soft tissue injury,Contusion of elbow
+2061,bruise contusion forearm arm soft tissue injury,Contusion of forearm
+2064,bruise contusion hand wrist soft tissue injury,Contusion of wrist
+2069,bruise contusion hand wrist soft tissue injury,Contusion of hand
+2079,bruise contusion thumb soft tissue injury,Contusion of thumb
+2084,bruise contusion finger soft tissue injury,Contusion of finger
+2096,bruise contusion thigh soft tissue injury,Contusion of thigh
+2106,bruise contusion knee soft tissue injury,Contusion of knee
+2118,bruise contusion lower leg soft tissue injury,Contusion of lower leg
+2127,bruise contusion ankle foot soft tissue injury,Contusion of ankle
+2130,bruise contusion foot ankle sprain toe soft tissue injury,Contusion of foot
+2138,bruise contusion toe subungal haematoma soft tissue injury,Contusion of toe
+2147,haematoma hematoma bruise contusion nose soft tissue injury nasal septum,Nasal septal haematoma
+2148,haematoma hematoma bruise contusion finger subungual soft tissue injury,"Subungual haematoma, hand"
+2164,haematoma hematoma bruise contusion toe subungual soft tissue injury,Subungual haematoma of foot
+2173,sprain ligament neck spine cervical whiplash soft tissue injury neck vertebral,Neck sprain
+2181,sprain ligament injury thoracic spine lumbago back pain vertebral,Thoracic back sprain
+2182,sprain ligament injury lumbar spine lumbago back pain sciatica vertebral,Lumbar sprain
+2184,sprain ligament injury shoulder joint clavicle scapula rotator cuff humerus,Sprain of shoulder
+2192,sprain ligament injury shoulder joint clavicle acromion acromioclavicular,Sprain of acromioclavicular ligament
+2195,sprain ligament injury elbow joint ulna humerus radius radial olecranon,Sprain of ligament of elbow
+2208,sprain ligament injury wrist joint colles smiths,Sprain of wrist
+2234,sprain ligament injury hand thumb finger digit,Sprain of hand
+2242,sprain ligament injury thumb finger hand digit,Sprain of thumb
+2255,Volar plate injury finger,Volar plate injury of finger joint
+2272,sprain ligament injury finger thumb hand digit ring index middle little,Sprain of ligament of finger
+2312,sprain ligament injury hip joint pelvis trochanter buttock,Sprain of hip
+2321,sprain ligament injury knee joint patella condyle tibia femur kneecap,Sprain of knee
+2339,sprained ligament injury ankle joint twisted malleolus deltoid talofibular calcaneofibular fibula calcaneum tibia talus achilles,Sprain of ankle
+2361,sprain ligament injury foot toe arch flat lisfranc,Sprain of foot
+2379,sprain ligament injury foot toe big,Sprain of interphalangeal joint of toe
+2384,tendon injury shoulder joint painful arc,Injury of tendon of shoulder joint
+2385,tendon injury biceps joint arm,Rupture of tendon of biceps
+2398,tendon injury elbow joint arm,Injury of tendon of elbow joint
+2401,tendon injury wrist joint hand,Injury of tendon of wrist joint
+2425,tendon injury hand finger digit,Tendon injury - hand
+2496,tendon injury thumb finger digit,Injury of tendon of thumb
+2503,tendon injury finger digit ring middle index little hand,Injury of tendon of finger
+2517,tendon injury patellar rupture tendon dislocation dislocated knee quadriceps,Rupture of quadriceps tendon
+2527,tendon injury patellar tendon dislocation dislocated knee,Strain of patellar tendon
+2530,tendon injury patellar rupture tendon dislocation dislocated knee,Rupture of patellar tendon
+2535,tendon injury achilles tendon ankle,Strain of Achilles tendon
+2538,tendon injury achilles tendon ankle,Rupture of Achilles tendon
+2548,tendon injury ankle foot,Injury of tendon of ankle
+2549,tendon injury foot toe,Injury of tendon of foot
+2574,tendon injury toe foot,Injury of tendon of toe
+2578,whiplash muscle neck injury cervical strain,Injury of muscle of neck
+2584,muscle injury upper back soft tissue injury chest pain wall costochondritis,Injury of muscle of thorax
+2599,muscle injury upper back soft tissue injury chest pain wall costochondritis,Strain of abdominal muscle
+2601,muscle injury upper back soft tissue injury,Injury of muscle of upper back
+2608,muscle injury lower back lumbago pain mechanical soft tissue injury,Injury of muscle of lower back
+2612,muscle injury shoulder soft tissue injury,Injury of muscle at shoulder level
+2613,muscle injury upper arm soft tissue injury,Injury of muscle at upper arm level
+2614,muscle injury forearm soft tissue injury,Injury of muscle at forearm level
+2615,muscle injury hand soft tissue injury,Injury of muscle of hand
+2631,muscle injury thigh soft tissue injury,Injury of muscle of pelvis
+2638,muscle injury thigh soft tissue injury,Injury of muscle of thigh
+2656,muscle injury lower leg soft tissue injury,Injury of muscle of lower leg
+2699,muscle injury foot soft tissue injury,Injury of muscle of foot
+2706,crush injury head,Crushing injury of skull and intracranial contents
+2707,crush injury face,Crushing injury of face
+2712,trauma asphyxiation strangle strangling hanging hanged traumatic obstruction breathing,Traumatic asphyxiation
+2714,crush injury neck,Crushing injury of neck
+2717,crush injury thorax chest,Crushing injury of chest
+2721,crush injury back,Crushing injury of back
+2726,crush injury abdomen,Crushing injury of abdomen
+2736,crush injury pelvis pelvic groin perineum penis vagina vulva testes balls testis genital,Crush injury of pelvic region
+2747,crush injury hand thumb finger digit,Crushing injury of hand
+2757,crush injury thumb finger digit,Crush injury of thumb
+2761,crush injury finger digit hand thumb ring middle little index,Crushing injury of finger
+2772,crush injury shoulder,Crushing injury of shoulder region
+2777,crush injury upper arm,Crushing injury of upper arm
+2780,crush injury forearm arm,Crushing injury of forearm
+2784,crush injury thigh leg,Crushing injury of thigh
+2789,crush injury lower leg,Crushing injury of lower leg
+2794,crush injury ankle foot,Crushing injury of ankle
+2800,crush injury foot toe,Crushing injury of foot
+2807,crush injury toe foot,Crushing injury of toe
+2813,degloving injury head,Degloving injury of head
+2815,degloving injury neck,Degloving injury of neck
+2816,degloving injury chest thorax back,Degloving injury chest wall
+2818,degloving injury back chest thorax,Degloving injury back
+2819,degloving injury abdomen,Degloving injury of abdomen
+2820,degloving pelvis pelvic groin perineum penis vagina vulva testes balls testis genital,Degloving injury of genitalia
+2823,degloving injury buttock,Degloving injury buttock
+2824,degloving injury shoulder,"Degloving injury, shoulder area"
+2825,degloving injury upper arm,"Degloving injury, upper arm"
+2826,degloving injury forearm wrist arm,"Degloving injury, forearm"
+2827,degloving injury hand finger digit,Degloving injury of hand
+2832,degloving injury thumb digit hand,Degloving injury of thumb
+2833,degloving injury finger digit hand thumb index middle ring little,Degloving injury of finger
+2835,degloving injury thigh knee leg,Degloving injury of thigh
+2836,degloving injury lower leg ankle knee,Degloving injury of lower leg
+2837,degloving injury ankle foot,"Degloving injury, ankle"
+2838,degloving injury foot ankle,Degloving injury of foot
+2842,degloving injury toe foot,Degloving injury toe
+2844,burn head face,Head burn
+2946,burn eye face head,Burn of eye region
+2991,burn face head face cheek forehead chin,Burn of face
+3053,burn airway head face nose mouth pharynx nasopharynx oropharynx,Burn of respiratory tract
+3067,burn neck head face neck,Burn of neck
+3081,burn chest abdomen stomach back flank thorax loin,Burn of trunk
+3189,burn pelvis pelvic groin perineum penis vagina vulva testes balls testis genital,Burn of perineum
+3211,burn buttock bum lower back loin,Burn of buttock
+3221,burn shoulder arm neck trunk thorax,Burn of shoulder
+3247,burn upper arm shoulder,Burn of upper arm
+3267,burn elbow arm,Burn of elbow
+3278,burn forearm arm elbow,Burn of forearm
+3298,burn hand forearm wrist,Burn of hand
+3381,burn thumb digit finger,Burn of thumb
+3394,burn finger thumb digit ring index middle little,Burn injury of skin of finger
+3400,burn thigh leg,Burn of thigh
+3417,burn knee leg,Burn of knee
+3432,burn lower leg,Burn of lower leg
+3451,burn foot toe,Burn of foot
+3477,burn toe foot,Burn of toe
+3509,closed fracture skull head injury,Closed fracture of skull
+3560,nose nasal fracture face,Closed fracture of nasal bones
+3561,closed fracture facial bones mandible jaw face,Closed fracture of facial bone
+3592,closed fracture sternum breastbone,Closed fracture of sternum
+3597,closed fracture rib chest flail segment pneumothorax,Closed fracture of rib
+3609,closed fracture cervical spine neck hangmans,Closed fracture of cervical spine
+3650,closed fracture thoracic spine chest,Closed fracture thoracic vertebra
+3668,closed fracture lumbar spine back,Closed fracture lumbar vertebra
+3687,closed fracture pubic rami pelvis,Fracture of multiple pubic rami
+3692,closed fracture sacrum pelvis,Closed fracture sacrum
+3696,closed fractture coccyx coccydynia,Closed fracture of coccyx
+3697,closed fracture pelvis,Closed fracture of pelvis
+3743,closed fracture clavicle collarbone,Closed fracture of clavicle
+3747,closed fracture shoulder shoulderblade acromiom coracoid glenoid,Closed fracture of scapula
+3755,closed fracture humerus arm,Closed fracture of humerus
+3781,closed fracture supracondylar humerus arm,Closed supracondylar fracture of humerus
+3782,closed fracture elbow joint olecranon coronoid,Elbow fracture - closed
+3824,closed fracture radius ulna forearm,Closed fracture of radius AND ulna
+3831,closed fracture scaphoid wrist carpal carpus,"Closed fracture scaphoid, waist, transverse"
+3832,closed fracture carpal bones wrist carpus,Closed fracture of carpal bone
+3860,closed fracture hand metacarpal carpal carpus,Closed fracture of metacarpal bone
+3904,closed fracture thumb bennett rolando metacarpal thenar,Closed fracture of thumb metacarpal
+3917,closed fracture thumb phalanx tip,Closed fracture of phalanx of thumb
+3931,closed fracture finger phalanx tip,Closed fracture of phalanx of finger
+3974,closed fracture neck of femur intertrochanteric trochanter nof subcapital transcervical garden pertrochanteric subtrochanteric,Closed fracture of hip
+4006,closed fracture femur shaft supracondylar,Closed fracture of femur
+4023,closed fracture knee,Closed fracture of bone of knee joint
+4040,closed fracture patella knee cap kneecap,Closed fracture of patella
+4071,closed fracture tibia fibula fibular,Closed fracture of tibia AND fibula
+4080,closed fracture ankle bimalleolar trimalleolar plafond pilon,Closed fracture of ankle
+4087,closed fracture ankle foot calcaneum heel,Closed fracture of calcaneus
+4090,closed fracture foot,Closed fracture of foot
+4138,closed fracture toe,Closed fracture of phalanx of foot
+4152,open fracture skull head injury,Open fracture of skull
+4191,open fracture facial bones mandible jaw,Open fracture of facial bones
+4209,nose nasal fracture face,Open fracture of nasal bones
+4210,open fracture sternum breastbone,Open fracture of sternum
+4216,open fracture rib chest pneumothrorax sucking wound,Open fracture of rib
+4228,open fracture cervical spine neck,Open fracture of cervical spine
+4257,open fracture thoracic spine chest,Open fracture thoracic vertebra
+4277,open fracture lumbar spine,Open fracture lumbar vertebra
+4296,open fracture sacrum pelvis,Open fracture sacrum
+4300,open fracture coccyx coccydynia,Open fracture of coccyx
+4301,open fracture pelvis open book shear,Open fracture of pelvis
+4337,open fracture shoulder clavicle collarbone,Open fracture of clavicle
+4341,open fracture shoulder scapula shoulderblade acromiom coracoid glenoid,Open fracture of scapula
+4349,open fracture humerus arm,Open fracture of humerus
+4373,open fracture humerus arm,Open supracondylar fracture of humerus
+4374,open fracture elbow joint olecranon supracondylar,Elbow fracture - open
+4410,open fracture radius ulna banana forearm,Open fracture of radius AND ulna
+4417,open fracture carpal bones wrist,Open fracture of carpal bone
+4440,open fracture metacarpal,Open fracture of metacarpal bone
+4467,open fracture thumb bennett rolando,Open fracture of thumb metacarpal
+4477,open fracture thumb phalanx tip,Open fracture of phalanx of thumb
+4490,open fracture finger,Open fracture of phalanx of finger
+4534,open fracture hip nof neck of femur subcapital trochanteric,Open fracture of hip
+4557,open fracture femur leg supracondylar,Open fracture of femur
+4567,open fracture knee tibia leg,Open fracture of bone of knee joint
+4582,open fracture patella knee cap kneecap,Open fracture of patella
+4615,open fracture lower leg tibia fibula,Open fracture of tibia AND fibula
+4624,open fracture ankle bimalleolar trimalleolar plafond pilon,Open fracture of ankle
+4631,open fracture ankle foot calcaneum heel,Open fracture of calcaneus
+4636,open fracture foot toe,Open fracture of foot
+4673,open fracture toe foot,Open fracture of phalanx of foot
+4747,dislocation sternoclavicular joint breastbone sternum clavicle,Dislocation of sternoclavicular joint
+4782,dislocation shoulder joint anterior posterior lightbulb,Traumatic dislocation of shoulder region
+4801,dislocation shoulder joint subluxation acriomioclavicular dissociation clavicle acromion,Dislocation of acromioclavicular joint
+4816,dislocation elbow joint monteggia,Dislocation of elbow joint
+4876,pulled elbow child infant,Pulled elbow
+4888,dislocation wrist galeazzi,Traumatic dislocation of intercarpal joint
+4908,dislocation hand,Dislocation of carpometacarpal joint
+4927,dislocation of thumb rolando bennett,Traumatic dislocation of joint of thumb
+4945,dislocation of finger,Traumatic dislocation of joint of finger
+4998,dislocation hip prosthetic joint,Dislocation of hip joint prosthesis
+5008,dislocation hip natural joint,Traumatic dislocation of hip joint
+5033,dislocation knee joint,Traumatic dislocation of knee joint
+5067,dislocation patella knee cap kneecap,Dislocation of patellofemoral joint
+5097,dislocation ankle joint,Traumatic dislocation of ankle joint
+5167,dislocation toe metatarssal phalanges,Dislocation of toe joint
+5220,concussion syndrome concussive minor head injury concussion gcs LOC loss of consciousness traumatic brain injury,Traumatic brain injury with no loss of consciousness
+5228,concussion syndrome concussive minor head injury concussion gcs LOC loss of consciousness traumatic brain injury,Traumatic brain injury with brief loss of consciousness
+5231,concussion syndrome concussive minor head injury concussion gcs LOC loss of consciousness traumatic brain injury,Traumatic brain injury with moderate loss of consciousness
+5233,concussion syndrome concussive minor head injury concussion gcs LOC loss of consciousness traumatic brain injury,Postconcussion syndrome
+5302,concussion syndrome concussive minor moderate severe head injury concussion gcs LOC loss of consciousness traumatic brain injury,Moderate head injury
+5303,concussion syndrome concussive minor moderate severe head injury concussion gcs LOC loss of consciousness traumatic brain injury,Major head injury
+5304,simple tooth fracture,Broken tooth without complication
+5305,complicated tooth fracture,Broken tooth with complication
+5306,luxation of tooth loose teeth ligament,Extrusive luxation of tooth
+5307,avulsion of tooth teeth removed out,Complete avulsion of tooth
+5308,neck injury airway injury,Injury of larynx
+5345,neck injury vascular injury,Injury to blood vessel of neck
+5356,thoracic injury traumatic pneumothorax,Traumatic pneumothorax
+5358,tension pneumothorax,Tension pneumothorax
+5360,thoracic injury flail chest rib fracture,Flail chest
+5363,thoracic injury open chest wound stab,Sucking chest wound
+5364,thoracic injury haemopneumothorax,Traumatic pneumohaemothorax
+5365,thoracic injury massive haemothorax,Traumatic haemothorax
+5368,lung contusion flail,Contusion of lung
+5371,injury heart cardiac tamponade,Injury of heart
+5589,aorta dissection rupture tear superior vena cava svc innominate artery vein aortic carotid jugular axilliary,Injury of blood vessels of thorax
+5648,bowel intestine perforation,Injury of intestine
+6033,injury abdominal aorta inferior vena cava superior mesenteric epigastric artery vein,Injury of blood vessel of pelvis
+6045,injury abdominal aorta inferior vena cava superior mesenteric epigastric artery vein,Injury of blood vessel of abdomen
+6114,abdominal trauma pregnancy gravid pregnant,Traumatic injury during pregnancy
+6150,amputation ear,Traumatic amputation of ear
+6157,amputation nose,Traumatic amputation of nose
+6160,amputation tongue,Traumatic amputation of tongue
+6161,amputation shoulder forequarter limb,"Traumatic amputation, through shoulder"
+6166,amputation upper arm limb,"Traumatic amputation, above elbow"
+6167,amputation forearm limb,"Traumatic amputation, below elbow"
+6171,amputation hand limb,Traumatic amputation of hand
+6178,amputation thumb limb,Traumatic amputation of thumb
+6190,amputation digits finger ring middle index,Traumatic amputation of finger
+6217,nail finger toe thumb avulsion toenail fingernail,Traumatic avulsion of nail
+6232,amputation genital,Traumatic amputation of external genital organs
+6240,amputation lower limb extremity hindquarter,"Traumatic amputation, through hip"
+6244,amputation femur limb,Traumatic amputation above knee
+6245,amputation partial amputation tibia fibula limb,Traumatic amputation below knee
+6246,amputation foot,Traumatic amputation of foot
+6271,amputation partial amputation toe,Traumatic amputation of toe
+6279,fb under in skin,Foreign body in skin
+6437,open wound fb,Foreign body left in wound
+6440,foreign body ear fb,Foreign body in ear
+6468,nose foreign body nasal fb,Foreign body in nose
+6481,respiratory foreign body inhaled lung bronchus trachea fb,Foreign body in respiratory tract
+6512,foreign body digestive tract swallowed gi tract fb alimentary,Foreign body in digestive tract
+6597,foreign body digestive tract swallowed gi tract fb alimentary button battery,Button battery in digestive tract
+6598,foreign body digestive tract swallowed gi tract fb alimentary magnet,Ingestion of magnetic foreign body
+6599,foreign body female genitalia vagina vulva fb,Foreign body in vagina
+6606,foreign body male genitalia penis fb,Foreign body in penis
+6613,foreign body rectum fb,Foreign body in rectum
+6616,ring tight on finger thumb toe digit penis,Constricting object on digit
+6617,hair tourniquet digit finger toe thumb,Hair tourniquet syndrome
+6618,constriction external genitalia penis cock ring cockring,Foreign object constricting external genitalia
+6619,complication injury vascular vessel artery vein,Injury of blood vessel
+6922,complication injury neurological nerve neurapraxia axonotmesis neurotmesis,Peripheral nerve injury
+7179,spinal cord injury cervical thoracic lumbar paralysis,Spinal cord injury
+7397,rhabdomyolysis muscle,Rhabdomyolysis
+7413,complication injury rhabdomyolysis compartment syndrome plaster pop leg pain calf,Compartment syndrome
+7457,complication injury fat embolism,Fat embolism
+7469,complication injury phantom pain limb amputation,Phantom pain
+7474,angina chest pain heart attack ami myocardial infarction costochondritis ACS acute coronary syndrome,Acute coronary syndrome
+7475,angina chest pain heart attack ami myocardial infarction costochondritis ACS acute coronary syndrome,Acute ST segment elevation myocardial infarction
+7513,angina chest pain heart attack ami myocardial infarction costochondritis ACS acute coronary syndrome,Acute non-ST segment elevation myocardial infarction
+7520,angina chest pain heart attack ami myocardial infarction costochondritis ACS acute coronary syndrome,Preinfarction syndrome
+7528,angina chest pain heart attack ami myocardial infarction costochondritis ACS acute coronary syndrome,Stable angina
+7530,af fibrillation flutter,Atrial fibrillation
+7548,svt supraventricular tachycardia,Supraventricular tachycardia
+7577,multifocal atrial tachycardia atrial fibrillation flutter,Multifocal atrial tachycardia
+7578,ventricular tachycardia,Ventricular tachycardia
+7620,ectopic extrasystole premature,Premature beats
+7639,heart block - first degree trifasicular atrioventricular,First degree atrioventricular block
+7640,heart block - second degree mobitz type i 1 atrioventricular wenkebach,Mobitz type I incomplete atrioventricular block
+7641,heart block - second degree mobitz type ii 2 atrioventricular,Mobitz type II atrioventricular block
+7642,heart block - third degree complete intraventricular,Complete atrioventricular block
+7647,right bundle branch block fasicle,Right bundle branch block
+7656,left bundle branch block fasicle,Left bundle branch block
+7664,bifasicular block rbbb lad right bundle fasicle branch block left axis deviation bifascicular,Bifascicular block
+7671,trifasicular block rbbb lad right bundle branch block fasicle left axis deviation trifascicular,Trifascicular block
+7672,heart conduction disorder block,Atrioventricular conduction disorder
+7681,sinus node dysfunction sick brady tachy syndrome af,Sick sinus syndrome
+7686,bradycardia slow,Bradycardia
+7709,wolff parkinson white lown ganong levine pre-excitation kent accessory,Ventricular pre-excitation
+7710,brugada syndrome mitochodria channelopathy,Brugada syndrome
+7711,long qt syndrome qtc,Long QT syndrome
+7729,arrhythmia rhythm cardiac heart,Conduction disorder of the heart
+7748,complication electronic pacemaker implantable device cardiac icd ppm event recorder,Disorder of cardiovascular prostheses and implants
+7815,discharge implantable cardiac defibrillator icd,Management of internal defibrillation
+7816,cardiac arrest heart,Cardiac arrest
+7850,aortic rheumatic pulmonary tricuspid mitral,Heart valve disorder
+8579,pericarditis pericardial effusion,Pericarditis
+8665,pericardial effusion pericarditis myocarditis,Pericardial effusion
+8685,cardiomyopathy myocarditis,Cardiomyopathy
+8855,endocarditis myocarditis pericarditis,Endocarditis
+8914,myocarditis endocarditis pericarditis,Myocarditis
+8987,myocarditis endocarditis pericarditis,Disorder of transplanted heart
+9001,postural hypotension faint vasovagal syncope,Orthostatic hypotension
+9008,collapse vasovagal faint syncope postural hypotension,Vasovagal syncope
+9012,collapse vasovagal faint syncope,Micturition syncope
+9013,left ventricular failure lvf cardiac heart attack myocardial infarction,Left heart failure
+9027,pulmonary oedema edema angina chest pain heart attack ami myocardial infarction costochondritis,Acute pulmonary oedema
+9032,ccf heart failure cardiac failure angina chest pain heart attack ami myocardial infarction right ventricular failure,Right ventricular failure
+9051,ccf heart failure cardiac failure angina chest pain heart attack ami myocardial infarction,Congestive heart failure
+9073,ccf heart failure cardiac failure angina chest pain heart attack ami myocardial infarction,Heart failure
+9135,hypertension high blood pressure,Hypertension
+9254,malignant hypertension crisis accelerated blood pressure BP,Malignant hypertension
+9262,pulmonary hypertension,Pulmonary hypertension
+9331,cardiogenic shock chest pain ami myocardial infarction heart attack,Cardiogenic shock
+9333,Postural orthostatic tachycardia syndrome,Postural orthostatic tachycardia syndrome
+9350,abdominal aneurysm with leak abdominal pain,Leaking abdominal aortic aneurysm
+9351,aorta aortic dissection abdominal chest pain,Dissection of aorta
+9364,stroke carotid artery dissection neck injury,Dissection of carotid artery
+9372,stroke vertebral artery dissection neck injury,Dissection of vertebral artery
+9378,radial artery wrist dissection pci angioplasty,Rupture radial artery
+9379,femoral artery dissection groin pci angioplasty,Dissection of femoral artery
+9405,thoracic aneurysm with leak abdominal pain chest,Leaking thoracic aortic aneurysm
+9406,varicose veins phlebitis venous dvt,Varicose veins of lower extremity
+9460,aneurysm femoral iliac brachial leak,Arterial aneurysm
+9606,leg ulcer pretibial tibial diabetes dvt varicose,Ulcer of skin of lower extremity
+9669,superior vena cava syndrome obstruction swelling lung cancer,Arteriovenous fistula
+9719,deep vein venous dvt thrombosis pe pulmonary embolus,Deep venous thrombosis
+9844,pe pulmonary embolism dvt deep venous thrombosis,Pulmonary embolism
+9887,thrombophlebitis leg deep venous thrombosis dvt varicose,Thrombophlebitis of superficial veins of lower extremity
+9898,peripheral vascular disease smoker smoking,Peripheral vascular disease
+10133,peripheral vascular disease smoker smoking lower limb leg ischaemia,Lower limb ischaemia
+10142,peripheral vascular disease smoker smoking upper limb arm ischaemia,Upper limb ischaemia
+10148,arterial embolism thrombosis ischaemic limb pain,Arterial embolus and thrombosis
+10188,obstruction swelling lymphatics radiotherapy lymphoedema,Disorder of lymphatic vessel
+10323,obstruction swelling lymphatics radiotherapy lymphoedema,Lymphoedema
+10404,gastrostomy stoma stroke peg tube fall out fell,Complication of gastrostomy
+10420,oesophageal varices with bleeding liver,Bleeding oesophageal varices
+10428,ascites liver failure hepatic,Ascites
+10450,intestinal gut transplant ileum jejenum rejection,Complication of transplanted intestines
+10456,gastroesophageal reflux gord heartburn,Gastrooesophageal reflux disease
+10468,oesophagus oesophagitis heartburn,Oesophagitis
+10515,upper gastrointestinal hemorrhage haematemesis gi bleed,Upper gastrointestinal haemorrhage
+10620,gastritis ulcer peptic,Gastritis
+10914,oesophagus spasm,Diffuse spasm of oesophagus
+10915,cyclical vomiting syndrome hyperemesis,Cyclical vomiting syndrome
+10918,biliary colic abdominal pain,Calculus of bile duct
+10944,cholecystitis abdominal pain,Cholecystitis
+10971,gallstones with cholecystitis abdominal pain,Calculus of gallbladder with cholecystitis
+10978,ascending cholangitis,Ascending cholangitis
+10979,acute pancreatitis abdominal pain,Acute pancreatitis
+10997,chronic recurrent pancreatitis abdominal pain,Chronic pancreatitis
+11011,chronic recurrent pancreatitis abdominal pain,Complication of transplanted pancreas
+11017,chronic liver disease hepatic,Chronic liver disease
+11115,hepatitis liver,Inflammatory disease of liver
+11208,liver failure hepatic failure jaundice encephalopathy,Hepatic failure
+11230,liver transplant rejection,Liver transplant disorder
+11240,Dysfunction of sphincter of Oddi,Dysfunction of sphincter of Oddi
+11245,appendicitis appendix abdominal pain,Appendicitis
+11278,mesenteric lymphadenitis abdominal pain,Mesenteric lymphadenitis
+11286,constipation overflow atonic,Chronic constipation
+11290,haemorrhage anus rectum anal bleed,Rectal haemorrhage
+11313,lower gastrointestinal hemorrhage melaena gi bleed,Lower gastrointestinal haemorrhage
+11354,crohns disease uc ulcerative colitis inflammatory bowel,Crohn's disease
+11395,uc ulcerative colitis crohns disease inflammatory bowel,Ulcerative colitis
+11425,irritable bowel,Irritable bowel syndrome
+11432,diverticulum diverticulitis abdominal pain,Diverticular disease
+11454,haemorrhoids anus rectum bleed lump,Haemorrhoids
+11488,bowel obstruction ileus abdominal pain,Intestinal obstruction
+11616,perianal abscess anal anus rectum,Perianal abscess
+11618,perforation intestine ulcer viscus abdominal pain button battery,Perforation of intestine
+11696,peritonitis abdominal pain,Peritonitis
+11770,ischaemic bowel gut abdominal pain,Acute vascular insufficiency of intestine
+11778,stoma colostomy illeostomy urostomy,Disorder of stoma
+11868,rectal prolapse rectum,Rectal prolapse
+11878,volvulus gut colonic abdominal pain,Intestinal volvulus
+11889,crohns disease uc ulcerative colitis inflammatory bowel,Fistula of digestive system
+12044,groin hernia lump abdominal pain inguinal,Inguinal hernia
+12103,femoral inguinal hernia lump groin abdominal pain,Femoral hernia
+12132,umbilical hernia lump,Umbilical hernia
+12152,diaphragmatic hernia hiatus oesophageal esophageal traumatic reflux GORD,Diaphragmatic hernia
+12174,incisional hernia lump abdominal pain,Incisional hernia
+12204,asthma wheeze COPD chronic obstructive pulmonary airways pulmonary bronchiolitis allergy anaphylaxis,Asthma
+12314,aspiration pneumonia,Aspiration pneumonia
+12322,haemoptysis cough blood,Haemoptysis
+12324,interstitial lung disease,Interstitial lung disease
+12379,bronchiectasis,Bronchiectasis
+12402,pneumoconiosis coal lung,Pneumoconiosis
+12452,Pneumonitis,Pneumonitis
+12528,Extrinsic allergic alveolitis mushroom bird fancier pigeon farmer metal working fluid mwf,Hypersensitivity pneumonitis
+12562,Pulmonary hemorrhage,Pulmonary haemorrhage
+12575,lung transplant complication rejection,Disorder related to lung transplantation
+12585,spontaneous pneumothorax pneumothorax,Spontaneous pneumothorax
+12588,pleural effusion lung,Pleural effusion
+12638,asbestos mesothelioma asbestosis pleural plaque,Pleural plaque
+12640,asbestosis mesothelioma asbestos,Asbestosis
+12641,copd chronic obstructive lung disease asthma airways pink puffer blue bloater,COPD - Chronic obstructive pulmonary disease
+12678,copd chronic obstructive lung disease asthma airways pink puffer blue bloater exacerbation,Acute exacerbation of chronic obstructive pulmonary disease
+12684,copd coad type 1 respiratory failure pink puffer emphysema bronchitis,Hypoxemic respiratory failure
+12690,copd coad type 2 respiratory failure blue bloater emphysema bronchitis,Hypercapnic respiratory failure
+12695,obstructive sleep apnoea upper airway obstruction,Breathing-related sleep disorder
+12722,respiratory arrest cardiac cardiorespiratory,Respiratory arrest
+12726,headache tension,Tension-type headache
+12732,headache migraine cluster,Migraine
+12768,headache cluster migraine chronic,Cluster headache
+12774,delirium acute confusion dementia,Delirium
+12822,dementia confusion delirium memory problems cognitive impairment Alzheimer Pick vascular dementia Lewy body frontotemporal,Dementia
+13015,parkinson disease tremor,Parkinsonism
+13070,brain tumour benign intracranial hypertension space occupying headache normal pressure hydrocephalus,Benign intracranial hypertension
+13078,brain tumour intracranial space occupying headache normal pressure hydrocephalus benign intracranial hypertension,Normal pressure hydrocephalus
+13079,brain tumour space occupying lesion headache,Intracranial space-occupying lesion
+13183,ventricular peritoneal drain catheter complication,Ventriculoperitoneal shunt malfunction
+13184,oculogyric crisis dystonic reaction dystonia spasm,Drug-induced acute dystonia
+13186,post viral fatigue myalgic encephalitis me postviral,Postviral fatigue syndrome
+13187,ms multiple sclerosis optic atrophy,Multiple sclerosis
+13204,guillan barre polyneuropathy,Guillain-Barré syndrome
+13214,neurological neuro spinal cord,Spinal cord disease
+13719,neurological neuro muscular dystrophy,Muscular dystrophy
+13834,neurological neuro,Degenerative brain disorder
+14013,neurological motor neuron disease,Motor neuron disease
+14084,neurological neuro paraneoplastic,Paraneoplastic syndrome
+14118,neurological neuro,Disorder of nervous system
+17688,autonomic neuropathy,Autonomic neuropathy
+17744,Acquired Horner syndrome Cervical sympathetic dystrophy horner syndrome,Acquired Horner syndrome
+17747,Gastroparesis autonomic,Gastroparesis syndrome
+17753,carpal tunnel median nerve,Carpal tunnel syndrome
+17758,stroke cva cerebrovascular accident tia transient ischaemic weakness,Stroke
+17858,transient ischemic attack tia stroke weakness,Transient cerebral ischaemia
+17867,subarachnoid sah stroke brain bleed headache,Subarachnoid haemorrhage
+17901,cerebral haemorrhage bleed brain stroke headache,Cerebral haemorrhage
+17967,brain stroke headache Intracranial venous thrombosis sinus cortical,Thrombus of intracranial vein
+18008,epilepsy status fit seizure tonic clonic grand mal epilepticus,Epilepsy
+18182,status epilepticus fit tonic clonic grand mal seizure,Status epilepticus
+18190,epilepsy petit mal absence seizure fit grand,Absence seizure
+18198,epilepsy focal partial local seizure fit grand mal petit status,Focal onset epileptic seizure
+18276,pseudo-fit pseudo seizure hysteria functional somatoform non epileptiform epileptic attack disorder status epilepticus,Dissociative convulsions
+18277,pseudo-fit pseudo seizure hysteria functional somatoform non epileptiform epileptic attack disorder status epilepticus,Narcolepsy
+18281,nose smell olfactory nerve cranial first,Disorder of olfactory nerve
+18290,nerve cranial eye second field defect optic vision,Disorder of optic nerve
+18466,nerve cranial eye movement third oculomotor,Third cranial nerve disease
+18505,nerve cranial eye movement fourth trochlear lateral down out,Fourth nerve palsy
+18512,nerve cranial face muscle trigeminal neuralgia,Trigeminal nerve disorder
+18548,nerve cranial face pain trigeminal neuralgia,Trigeminal neuralgia
+18552,nerve cranial eye movement sixth upward gaze,Abducens nerve disorder
+18577,nerve cranial trigeminal neuralgia face facial pain,Facial nerve disorder
+18637,nerve cranial bell palsy stroke face weakness bells,Bell's palsy
+18639,nerve cranial accoustic auditory hearing balance eighth acoustic,Disorder of acoustic nerve
+18672,nerve cranial swallowing stroke ninth glossopharyngeal,Disorder of glossopharyngeal nerve
+18688,nerve cranial vagus vagal tenth,Disorder of vagus nerve
+18701,nerve cranial accessory eleventh neck,Disorder of accessory nerve
+18714,nerve cranial hypoglossal twelfth tongue,Disorder of hypoglossal nerve
+18730,dka diabetes type 1,Type 1 diabetes mellitus
+18752,dka diabetes type 1,Diabetic ketoacidosis
+18777,honk hhs hyperosmolar non ketotic,Hyperosmolar non-ketotic state due to diabetes mellitus
+18780,hypoglycaemia,Hypoglycaemia
+18794,hyperglycaemia dka honk hhc,Hyperglycaemia
+18986,addisons crisis adrenal insufficiency adrenocortical acute ,Acute adrenal insufficiency
+19004,endocrine endocrinology,Disorder of endocrine system
+20101,dehydration fluid loss,Dehydration
+20112,potassium hypokalaemia,Hypokalaemia
+20134,potassium hyperkalaemia,Hyperkalaemia
+20145,sodium hyponatraemia hyponatremia siadh,Hyponatraemia
+20160,sodium hypernatraemia hypernatremia diabetes insipidus,Hypernatraemia
+20167,calcium hypocalcaemia hypocalcemia,Hypocalcaemia
+20184,hypercalcaemia calcium,Hypercalcaemia
+20211,hypomagnesaemia hypomagnesemia magnesium,Hypomagnesaemia
+20224,fluid electrolytes acid base inborn error metabolism,Fluid volume disorder
+20227,eczema dermatitis red rash atopic atopy allergic allergy,Eczema
+20453,dermatitis contact dermatitis scaly red rash,Contact dermatitis
+20663,seborrheic dermatitis scaly,Seborrhoeic dermatitis
+20694,uticaria itchy allergic allergy reaction red rash,Urticaria
+20781,urticaria drug reaction allergy allergic red rash,Urticaria medicamentosa
+20787,psoriasis red scaly rash,Psoriasis
+20864,ingrowing toenail nail,Ingrowing nail
+20873,ingrowing toenail nail,Disorder of nail
+21167,sunburn red rash,Solar erythema
+21168,solar keratosis skin,Solar degeneration
+21170,bedsore decubitus ulcer pressure sore injury,Pressure injury
+21353,melanocytic nevus naevus melanoma,Melanocytic naevus
+21503,heat rash red rubra miliaria,Prickly heat
+21505,sebaceous cyst trichilemmal epidermoid,Epidermoid cyst of skin
+21535,dermoid cyst choristoma,Dermoid cyst
+21557,pilonidal perianal abscess anal anus sacrum sacral,Pilonidal cyst
+21561,lipoma,Lipoma
+21641,acne vulgaris,Acne
+21699,pityriasis rosea red rash,Pityriasis rosea
+21700,erythema nodosum TB red rash lump,Erythema nodosum
+21715,erythema multiforme red rash,Erythema multiforme
+21737,pyogenic granuloma,Pyogenic granuloma
+21747,pemphigus pemphigoid bullous cyst blister,Bullous dermatosis
+21806,hayfever atopic,Seasonal allergic rhinitis
+21812,anaphylaxis,Anaphylaxis
+21866,angioedema angiotensin converting enzyme inhibitor ace acei,Angioedema caused by angiotensin-converting-enzyme inhibitor
+21869,angio-oedema angioneurotic oedema C1 esterase inhibitor,Angioedema
+21894,angioedema angiotensin converting enzyme inhibitor ace acei,Acquired C1 esterase inhibitor deficiency
+21901,immunodeficiency HIV,Immunodeficiency disorder
+22239,allergic reaction allergy urticaria anaphylaxis,Allergic disposition
+23592,anaemia pale acute unknown,Anaemia
+23981,anaemia iron deficiency pale,Iron deficiency anaemia
+23998,neutropenic sepsis chemotherapy septic shock,Neutropenic sepsis
+24030,teeth gums bleeding spontaneous atraumatic,Spontaneous haemorrhage
+24043,sickle cell disease sickling sickle cell crisis,Haemoglobin SS disease with crisis
+24048,anaemia pale chronic,Chronic anaemia
+24158,haemophilia hemophilia,Haemophilia
+24206,coagulation abnormality bleeding tendency,Blood coagulation disorder
+24424,sickle cell disease sickling sickle cell crisis,Sickle cell-haemoglobin SS disease
+24498,bone marrow transplant graft host rejection,Disorder of transplanted bone marrow
+24541,haematological blood dyscrasia haem heme myelodysplasia leukaemia lymphoma,Disorder of cellular component of blood
+24858,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases mouth,Neoplasm of mouth
+25337,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases oropharynx,Neoplasm of oropharynx
+25467,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases oesphagus,Neoplasm of oesophagus
+25582,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases stomach,Neoplasm of stomach
+25754,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases liver,Neoplasm of liver
+25825,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases biliary tract,Neoplasm of biliary tract
+25938,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases pancreas,Neoplasm of pancreas
+26085,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases small intestine,Neoplasm of small intestine
+26196,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases large intestine,Neoplasm of large intestine
+26368,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases rectum,Neoplasm of rectum
+26420,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases anus,Neoplasm of anus
+26474,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases peritoneum and retroperitoneum,Neoplasm of soft tissues of abdomen
+26614,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases sinus,Neoplasm of accessory sinus
+26692,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases nasopharynx,Neoplasm of nasopharynx
+26781,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases larynx,Neoplasm of larynx
+26980,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases trachea,Neoplasm of trachea
+27044,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases bronchus,Neoplasm of bronchus
+27143,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases lung (not bronchus),Neoplasm of lung
+27421,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases mesothelioma,"Mesothelioma (malignant, clinical disorder)"
+27441,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases pleura,Neoplasm of pleura
+27470,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases mediastinum,Neoplasm of soft tissues of thorax
+27509,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases heart and/ or pericardium,Neoplasm of heart AND/OR pericardium
+27551,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases haemangioma,Strawberry naevus of skin
+27557,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases blood vessel,Neoplasm of blood vessel
+27707,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases kidney,Neoplasm of kidney
+27837,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases ureter,Neoplasm of ureter
+27877,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases bladder,Neoplasm of urinary bladder
+27985,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases urethra,Neoplasm of urethra
+28008,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases ovary,Neoplasm of ovary
+28143,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases fallopian tube,Neoplasm of fallopian tube
+28178,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases uterus,Neoplasm of uterus
+28307,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases uterine cervix,Neoplasm of uterine cervix
+28381,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases vagina,Neoplasm of vagina
+28416,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases vulva,Neoplasm of vulva
+28489,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases breast,Neoplasm of breast
+28762,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases testis,Neoplasm of testis
+28848,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases prostate,Neoplasm of prostate
+28887,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases penis,Neoplasm of penis
+28950,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases scrotum,Neoplasm of scrotum
+28968,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases thyroid,Neoplasm of thyroid gland
+29005,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases adrenal,Neoplasm of adrenal gland
+29060,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases pituitary gland,Neoplasm of pituitary gland
+29109,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases myeloid leukaemia,Myeloid leukaemia
+29172,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases lymphoid leukaemia,Lymphoid leukaemia
+29234,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases hodgkin's lymphoma,Hodgkin's disease (clinical)
+29329,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases non-hodgkin hodgkins hodgkin's lymphoma,Non-Hodgkin's lymphoma (clinical)
+29575,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases multiple myeloma,Multiple myeloma
+29592,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases tonsils / adenoids,Neoplasm of Waldeyer's ring
+29625,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases thymus,Neoplasm of thymus
+29644,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases spleen,Neoplasm of spleen
+29665,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases lymph node,Neoplasm of lymph node
+29907,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases lymphangioma,Lymphangioma
+29930,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases basal cell carcinoma,Basal cell carcinoma of skin
+30048,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases squamous cell carcinoma,Squamous cell carcinoma of skin
+30049,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases melanoma,Malignant melanoma of skin
+30155,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases kaposi sarcoma,Kaposi's sarcoma (clinical)
+30174,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases merkel cell carcinoma,Merkel cell carcinoma
+30209,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases skin lymphoma T cell mycosis fungoides,Non-Hodgkin's lymphoma of skin
+30217,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases actinic keratosis,Actinic keratosis
+30234,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases ear,Neoplasm of ear
+30327,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases nose,Neoplasm of nose
+30421,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases face,Neoplasm of face
+30684,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases brain,Neoplasm of brain
+30896,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases cerebellum,Neoplasm of cerebellum
+30913,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases spinal cord,Neoplasm of spinal cord
+30962,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases meninges,Neoplasm of meninges
+30990,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases cranial nerve,Neoplasm of cranial nerve
+31011,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases peripheral nerve,Neoplasm of peripheral nerve
+31089,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases autonomic nerve,Neoplasm of autonomic nerve
+31093,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases bone,Neoplasm of bone
+31626,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases muscle,Neoplasm of muscle
+31708,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases cartilage,Neoplasm of articular cartilage
+31749,cancer neoplasia neoplasm sarcoma tumour tumor benign malignant metastasis metastases metastatic tumour,Metastatic malignant neoplasm
+32155,urti upper respiratory tract pharygitis tonsillitis sinusitis laryngitis viral,Upper respiratory infection
+32248,lrti chest infection lower respiratory pneumonia,Lower respiratory tract infection
+32353,pneumonia lrti bronchopneumonia,Pneumonia
+32488,lobar pneumonia lrti,Lobar pneumonia
+32498,legionnaires disease legionella pneumonia,Legionella pneumonia
+32501,influenza flu,Influenza
+32529,pertussis whooping cough,Pertussis
+32531,epiglottitis hib haemophilus influenzae,Epiglottitis
+32541,tracheitis bacterial,Tracheitis
+32569,coronavirus covid 19 wuhan,Acute COVID-19 infection
+32570,coronavirus covid 19 extended symptoms,Ongoing symptomatic COVID-19
+32571,coronavirus covid 19 long prolonged,Post-COVID-19 syndrome
+32572,tuberculosis tb consumption,Tuberculosis
+32766,cellulitis skin infection erythema,Cellulitis
+32983,impetigo cellulitis face,Impetigo
+33002,abscess furuncle boil,Abscess
+33455,mastitis breast abscess,Inflammatory disorder of breast
+33513,paronychia cellulitis finger boil abscess,Paronychia
+33530,scarlet fever streptococcus group,Scarlet fever
+33532,Lyme disease Borellia burgdorferi borreliosis target lesion erythema chronicum migrans rash,Lyme disease
+33556,tinea pedis athlete foot fungus,Tinea pedis
+33564,tinea versicolour pityriasis versicolour,Pityriasis versicolor
+33565,ringworm fungus dermatophytosis fungal tinea capitis corporis pedis,Dermatophytosis
+33684,chickenpox varicella zoster herpes shingles,Varicella
+33687,herpes zoster infection shingles,Varicella-zoster virus infection
+33735,herpes simplex cold sores,Herpes simplex infection of skin
+33753,eczema herpeticum shingles zoster herpes,Eczema herpeticum
+33754,hand foot and mouth coxsackie a enterovirus,Hand foot and mouth disease
+33755,molluscum contagiosum poxvirus,Molluscum contagiosum infection
+33763,Monkeypox,Mpox
+33764,scabies sarcoptes scabiei,Infestation by Sarcoptes
+33773,pediculosis lice nits,Infestation by Pediculus
+33778,verrucca plantaris wart foot,Verruca plantaris
+33781,viral exanthum virus rash,Viral exanthem
+33807,uti urinary tract infection urosepsis,Lower urinary tract infectious disease
+33854,pyelonephritis kidney infection uti urinary tract infection urosepsis,Upper urinary tract infection
+33876,pyelonephritis kidney infection uti urinary tract infection urosepsis,Pyelonephritis
+33909,infectious gastroenteritis d+v diahorrea vomiting d&v dandv,Infectious gastroenteritis
+33930,infectious gastroenteritis d+v diahorrea vomiting d&v dandv,Haemorrhagic diarrhoea
+33932,giardia intestinal parasite diarrhoea,Infection by Giardia lamblia
+33937,oral herpes simplex cold sores,Oral herpes simplex infection
+33945,candida thrush red erythema,Candidiasis
+34036,worms helminthiasis tapeworm roundworm threadworm,Infection caused by Cestoda and/or Trematoda and/or Phylum Nemata
+34531,chlamydia discharge sti std,Chlamydial infection
+34582,genital herpes sti std,Genital herpes simplex
+34603,genital warts hpv sti std papilloma,Genital warts
+34606,gonorrhoea vaginal penile discharge std sti,Gonorrhoea
+34682,trichomoniasis vaginal discharge penile std sti,Infection by Trichomonas
+34695,septicaemia collapse rash shock hypotension sepsis,Sepsis
+34813,septic shock collapse rash hypotension,Septic shock
+34832,meningococcal sepsis collapse rash shock headache hypotension,Meningococcal infectious disease
+34850,bacterial meningitis headache,Bacterial meningitis
+34904,viral meningitis headache,Viral meningitis
+34943,encephalitis meningitis,Encephalitis
+35125,infectious mononucleosis glandular fever,Infectious mononucleosis
+35139,measles,Measles
+35146,mumps parotitis orchitis parotid,Mumps
+35164,rubella german measles,Rubella
+35175,malaria headache,Malaria
+35205,necrotising fasciitis streptococcal gangrene leg pain arm limb streptococcus,Necrotising fasciitis
+35212,hiv aids sti std,Human immunodeficiency virus infection
+35335,fungal infection mycosis,Mycosis
+35744,puo pyrexia of unknown origin fever,Pyrexia of unknown origin
+35746,food poisoning infectious gastroenteritis d+v diahorrea vomiting d&v dandv,Food poisoning
+35798,haemolytic uraemic syndrome hus ecoli,Haemolytic uraemic syndrome
+35807,ecoli haemolytic uraemic hus uremic,Clinical syndrome due to Escherichia coli O157 infection
+35808,diphtheria,Diphtheria caused by Corynebacterium diphtheriae
+35903,dysentery diarrhoea food poisoning,Dysenteric diarrhoea
+35913,cholera,Cholera
+35918,sars pandemic,Severe acute respiratory syndrome
+35922,hepatitis liver,"Viral hepatitis, type A"
+35929,hepatitis b,Type B viral hepatitis
+35948,Acute hepatitis caused by infection infectious hepatitis liver,Acute infectious hepatitis
+35965,viral haemorrhagic fever vhf ebola,Viral haemorrhagic fever
+35981,leprosy hansen,Leprosy
+36010,rabies hydrophobia lyssa,Rabies
+36020,smallpox variola,Smallpox
+36027,anthrax charbon splenic fever milzbrand,Anthrax
+36039,plague yersinia pestis,Plague
+36064,dengue fever tropical,Dengue
+36314,ureteric stone renal colic abdominal pain,Ureteric stone
+36322,urine retention abdominal pain,Retention of urine
+36332,haematuria blood urine,Blood in urine
+36372,complication catheter infection UTI urinary tract,Catheter-associated urinary tract infection
+36373,complication catheter urinary blocked leaking urine,Complication of urinary catheter
+36388,complication catheter urinary blocked leaking urine,Fistula of genitourinary tract
+36463,prostatitis sti std penile discharge pain,Prostatitis
+36483,prostate bph prostate enlargement,Benign prostatic hyperplasia
+36488,Fowler syndrome urinary retention,Fowler syndrome
+36546,chronic renal failure,Chronic renal failure
+36808,kidney disease renal transplant,Disorder of transplanted kidney
+36843,kidney disease renal,Kidney disease
+37505,torsion testicle testis twisted abdominal pain,Torsion of testis
+37508,epididymitis orchitis epidymo-orchitis testis testicle sti std discharge,Orchitis and epididymitis
+37521,foreskin phimosis penis,Acquired phimosis
+37523,foreskin paraphimosis penis,Paraphimosis
+37524,balanitis foreskin penis infection sti std,Balanitis
+37546,priapism erection penis penile,Priapism
+37554,penis fracture penile rupture corpus cavernosum,Rupture of corpus cavernosum of penis
+37555,penis frenulum tear torn,Torn frenulum of penis
+37556,otitis media middle ear,Otitis media
+37670,otitis externa ear infection pinna lobe external,Otitis externa
+37740,epistaxis nose nosebleed blood,Bleeding from nose
+37749,tonsillitis throat,Tonsillitis
+37777,quinsy peritonsillar abscess throat,Peritonsillar abscess
+37779,sinusitis hayfever sinus,Sinusitis
+37844,labyrinthitis dizziness dizzy,Labyrinthitis
+37862,vestibular neuronitis dizziness dizzy,Epidemic vertigo
+37867,vertigo bpv dizzy dizziness,Benign paroxysmal positional vertigo
+37872,menieres vertigo dizziness dizzy,Ménière's disease
+37887,tympanic perforation drum tympanum rupture middle ear infection,Acute suppurative otitis media with spontaneous rupture of ear drum
+37892,traumatic rupture of ear drum tympanum,Traumatic tympanic membrane perforation
+37896,ear wax cerumen conductive deafness,Impacted cerumen
+37897,mastoiditis ear infection,Mastoiditis
+37919,otitis media ear infection middle,Chronic otitis media
+37943,tracheostomy blocked,Tracheostomy complication
+37966,dental abscess toothache,Dental abscess
+38078,gingivitis gum tooth,Gingivitis
+38148,salivary gland abscess parotid submandibular,Abscess of salivary gland
+38152,tmj temporomandibular joint,Temporomandibular joint disorder
+38209,mouth ulcer aphthous,Ulcer of mouth
+38251,dislocation of temporomandibular joint tmj jaw mandible,Dislocation of temporomandibular joint
+38263,periorbital cellulitis preseptal orbital eye,Cellulitis of periorbital region
+38264,orbital cellulitis periorbital eye,Orbital cellulitis
+38267,hyphema anterior chamber blood,Hyphaema
+38279,fracture orbit eye,Fracture of orbit
+38321,trauma traumatic mydriasis iris ciliary body,Traumatic mydriasis
+38322,inner eye intraocular FB foreign body,Retained foreign body in eye
+38353,penetrating eye injury globe laceration wound,Penetrating wound of eye
+38364,injury orbit eye blunt,Blunt injury of eye
+38909,disorder eyelid abscess furuncle hordeolum cellulitis stye,External hordeolum
+38916,eyelid inflammation,Blepharitis
+38970,contact allergic blepharitis dermatitis eczema eyelid,Contact dermatitis of eyelid
+38986,lacrimal lacrimal sac acute chronic,Dacryocystitis
+39012,eyelid subtarsal foreign body fb,Foreign body under eyelid
+39013,meibomian tarsal cyst Chalazion,Chalazion
+39173,laceration tear eyelid,Laceration of eyelid
+39184,Zoster opthalmic ocular herpectic,Herpes zoster ophthalmicus
+39212,viral eye infection,Viral conjunctivitis
+39228,atopic seasonal allergic,Allergic conjunctivitis
+39245,chemical sustance injury eye conjunctiva,Acute conjunctivitis caused by chemical
+39249,bacterial infective,Bacterial conjunctivitis
+39293,conjunctiva conjunctival fb foreign body,Conjunctival foreign body
+39297,haemorrhage conjunctiva subconunctival bleeding eye,Subconjunctival haemorrhage
+39357,Gonnococcus Gonnococcal neonatal conjunctivitis,Gonococcal conjunctivitis neonatorum
+39361,contact lens cut laceration abraision,Contact lens related corneal abrasion
+39362,corneal abrasion red eye,Corneal abrasion
+39366,FB foreign body cornea corneal,Corneal foreign body
+39373,cornea corneal burn,Corneal burn
+39395,Exposure ultra violet Iagopthalmic keratitis,Exposure keratoconjunctivitis
+39422,viral eye infection keratitis virus keratitis,Viral keratitis
+39430,ophthalmicus herpes HSV herpectic,Herpes simplex keratitis
+39443,hzv herpectic zoster ophthalmicus,Herpes zoster keratitis
+39524,graft failure complication issue rejection,Corneal graft disorder
+39595,acute glaucoma high pressure eye,Acute angle-closure glaucoma
+39599,chronic glaucoma high pressure eye,Primary open angle glaucoma
+39831,traumatic iritis,Traumatic iritis
+39832,episclera inflammation sclera scleritis,Episcleritis
+39849,Inflammation white scleritis sclera episcleritis,Scleritis
+39888,acute chronicendophthalmus,Endophthalmitis
+40050,amaurosis fugax momentary blindness AF AFX Transient monocular,Amaurosis fugax
+40086,retinal detachment vitreous eye floaters,Retinal detachment
+40724,optic neuritis multiple sclerosis ms disc eye,Optic neuritis
+40736,optic disc papilloedema eye icp,Papilloedema - optic disc oedema due to raised intracranial pressure
+41190,osteoporosis,Osteoporosis
+41423,pathological fracture tumour tumor cyst metastasis metastatic,Pathological fracture
+41465,stress exercise overuse fracture,Stress fracture
+41509,back pain sciatica radiculopathy lumbago,Sciatica
+41521,sciatica lumbar radiculopathy,Lumbar radiculopathy
+41549,radiculopathy spondylosis hermitte,Cervical radiculopathy
+41579,cauda equina back pain sciatica lumbago,Cauda equina syndrome
+41608,cauda equina back pain sciatica spinal cord compression,Spinal cord compression
+41634,back pain sciatica spinal osteoarthritis spondylosis oa spondylolisthesis,Spondylosis
+41712,intervertebral disc discitis,Discitis
+41729,oa osteoarthritis,Osteoarthritis
+42036,haemarthrosis,Subluxation of joint
+42198,pseudo gout crystal arthropathy,Crystal arthropathy
+42242,gout crystal arthropathy,Gout
+42382,bursitis bursa tendon,Bursitis
+42514,septic arthritis suppurative arthritis infective,Infective arthritis
+42697,rupture cyst baker knee synovial,Rupture of synovial cyst of knee
+42704,synovium synovial cyst,Disorder of synovial membrane
+42874,haemarthrosis,Haemarthrosis
+42928,rheumatoid arthritis,Rheumatoid arthritis
+43194,tendonitis,Tendinitis
+43341,tenosynovitis tendon,Tenosynovitis
+43398,tendon rupture atraumatic,Non-traumatic tendon rupture
+43535,frozen shoulder adhesive capsulitis,Frozen shoulder
+43538,plantar fasciitis,Plantar fasciitis
+43613,neck muscle spasm torticollis sternocleidomastoid,Torticollis
+43623,Disorder of rotator cuff supraspinatus tendon shoulder,Disorder of rotator cuff
+43776,polymyalgia rheumatica pmr giant cell arteritis temporal arteritis,Giant cell arteritis with polymyalgia rheumatica
+43777,temporal arteritis giant cell arteritis pmr polymyalgia rheumatica,Giant cell arteritis without polymyalgia rheumatica
+43778,lupus sle systemic erythematosis,Systemic lupus erythematosus
+43797,desquamation rash palm fingers kawasaki heart acute febrile mucocutaneous lymph node syndrome,Kawasaki disease
+43854,vasculitis,Vasculitis
+44122,bronchiolitis croup wheeze asthma viral urti,Bronchiolitis
+44143,viral wheeze bronchiolitis asthma viral urtii lrti croup,Viral wheeze
+44144,intestinal malrotation baby vomit,Congenital malrotation of intestine
+44163,"croup viral urti wheeze asthma, laryngotracheitis epiglotitis",Croup
+44164,undescended testis cryptorchism groin,Undescended testicle
+44169,nappy rash erythema,Nappy rash
+44172,hsp henoch-schonlein purpura vasculitis,Immunoglobulin A vasculitis
+44175,febrile convulsion,Febrile convulsion
+44180,pyloric stenosis baby projectile vomiting,Pyloric stenosis
+44189,intussusception baby crying miserable,Intussusception of intestine
+44204,brief resolved unexplained event apparent life threatening BRUE ALTE faint blackout,Brief resolved unexplained event
+44205,colic infantile,Infantile colic
+44207,crying infant baby irritable,"Crying, excessive"
+44214,feeding newborn baby neonatal neonate,Feeding problems in newborn
+44227,jaundice newborn baby neonate neonatal,Neonatal jaundice
+44258,umbilicus umbilical granuloma,Umbilical granuloma
+44261,congenital dislocation of hip baby,Congenital dislocation of hip
+44273,seizure newborn convulsions fit baby newborn neonatal neonate,Neonatal seizure
+44276,apnoeic episode breath-holding attacks baby newborn neonate neonatal,Neonatal apnoeic attack
+44277,hypoglycaemia newborn jittery baby neonate neonatal,Neonatal hypoglycaemia
+44282,Neonatal metabolic disorder,Neonatal metabolic disorder
+44329,irritable hip child infant limp limping transient synovitis of hip,Transient synovitis of hip
+44333,perthes avascular necrosis femoral,Perthes disease of hip
+44336,slipped upper epiphysis osteochondropathy sufe sufi,Slipped upper femoral epiphysis
+44342,osgood-schlatter traction apophysitis pain tibia child tibial tuberosity,Osgood Schlatter disease
+52448,menorrhagia heavy period bleeding pv vaginal menstruation menstrual,Menorrhagia
+52455,dysmenorrhoea period pain bleeding menstruation menstrual,Dysmenorrhoea
+52461,postmenopausal bleed menopause bleeding,Postmenopausal bleeding
+52463,postcoital contactvaginal bleeding post-coital intercourse,Postcoital bleeding
+52464,vaginal infection sti std candidia thrush genital,Infective vaginitis
+52486,pid pelvic inflammatory disease vaginal discharge std sti sexually transmitted infection,Female pelvic inflammatory disease
+52539,endometriosis period pain bleeding dysmenorrhoea endometritis uterus,Endometriosis (clinical)
+52609,ovarian ovary disorder period pain lower abdominal hyperstimulation fertility,Disorder of ovary
+52768,ovarian ovary torsion lower abdominal,Torsion of ovary
+52775,uterine fibroid uterus,Uterine leiomyoma
+52795,labia vulval abscess bartholin vagina,Abscess of vulva
+52801,contraceptive device complication pill condom coil copper intrauterine,Disorder of intrauterine contraceptive device
+52813,endometritis endometritis uterus uterine bleeding inflammation,Endometritis
+52834,ivf ovarian hyperstimulation syndrome in vitro fertilisation ovary,Ovarian hyperstimulation syndrome
+52835,prolapse genital uterine vaginal,Prolapse of female genital organs
+52896,cutting fgm female genital mutilation circumcision,Female genital mutilation
+52908,abortion threatened miscarriage vaginal pv pregnant pregnancy,Threatened miscarriage
+52912,missed abortion miscarriage bleeding vaginal pv pregnant pregnancy,Missed miscarriage
+52913,abortion complete spontaneous miscarriage vaginal pv pregnant pregnancy,Miscarriage
+52938,retained products of conception following abortion miscarriage vaginal pv pregnant pregnancy infection,Incomplete miscarriage
+52946,retained products conception abortion miscarriage vaginal pv pregnant pregnancy infection,Retained products after miscarriage
+52947,top abortion complication termination pregnancy,Miscarriage with complication
+52985,pregnancy vomiting hyperemesis gravidarum pregnant nausea,Hyperemesis gravidarum
+52993,ectopic pregnancy pregnant pain lower abdominal bleeding vaginal pv pregnant pregnancy,Ectopic pregnancy
+53018,mole molar pregnancy,"Hydatidiform mole, benign"
+53021,pre-eclampsia pre eclampsia hypertension fits pregnancy hypertension,Pre-eclampsia
+53027,eclampsia pre fits seizure hypertension pregnancy,Eclampsia
+53032,false labour braxton hicks contractions,Braxton Hicks contractions
+53033,braxton hicks early premature labour,Premature labour
+53040,premature rupture of membranes labour early contractions,Premature rupture of membranes
+53053,premature rupture of membranes labour early contractions amnionitis chorioamnionitis membranitis,Disorder of amniotic cavity AND/OR membrane
+53111,ante-partum haemorrhage,Antepartum haemorrhage
+53129,labour delivery birth born,Labour established
+53134,labour delivery birth born breech,Complete breech delivery
+53161,labour delivery birth born shoulder dystocia obstructed,Obstructed labour due to shoulder dystocia
+53162,labour delivery birth born prolapsed cord umbilical,Prolapse of cord
+53163,labour delivery birth born abnormal obstructed complex,Abnormal delivery
+53170,baby born birth delivery premature prem,Premature birth of newborn
+53173,baby born birth delivery,Livebirth
+53192,pph post-partum haemorrhage,Postpartum haemorrhage
+53203,post-partum infection puerperal septicaemia,Puerperal sepsis
+53206,breast infection cellulitis mastitis pregnancy pregnant,Postpartum disorder of breast
+53290,eating disorder bulimia anorexia nervosa binge eating purging,Eating disorder
+53332,anxiety anxious obsessive compulsive OCD,Obsessive-compulsive disorder
+53339,panic attack anxiety anxious phobia agoraphobia panic attack post traumatic stress,Panic disorder
+53378,anxiety anxious phobia agoraphobia panic attack post traumatic stress,Anxiety disorder
+53461,depression depressed depressive episode bipolar affective psychosis psychotic,Depression
+53608,bipolar affective depression depressed depressive manic mania psychotic psychosis,Bipolar disorder
+53713,schizophrenia schizophrenic psychotic psychosis,Schizophrenia
+53760,schizophrenia schizophrenic psychotic psychosis,Psychotic disorder
+53880,dissociative disorder neurotic neurosis hysteria hysterical conversion,Dissociative disorder
+53928,somatisation somatization psychosomatic conversion somatoform pain,Somatisation disorder
+53931,somatoform pain disorder somatization somatisation psychosomatic converson,Somatoform pain disorder
+53937,adjustment disorder,Adjustment disorder
+53996,poisoning acetaminophen paracetamol cocodamol,Paracetamol overdose
+53999,poisoning nsaid ibuprofen naproxen indomethacin indometacin diclofenac,Non-steroidal anti-inflammatory overdose
+54077,poisoning antidepressant tricyclic ssri snri amitryptiline imipramine,Overdose of antidepressant drug
+54175,poisoning benzodiazepines sedatives benzos diazepam temazepam clonazepam alprazolam,Sedative overdose
+54288,poisoning opiate heroin diamorphine codeine oxycodone pethidine methadone,Overdose of opiate
+54348,poisoning atenolol propranolol beta blocker overdose,Overdose of beta-adrenergic blocking drug
+54357,poisoning nifedipine diltiazem calcium channel blocker overdose,Overdose of calcium-channel blockers
+54363,poisoning digoxin overdose,Digoxin overdose
+54366,poisoning overdose colchicine,Poisoning by colchicine
+54372,poisoning overdose ace angiotensin converting enzyme blocker nitrate alpha,Antihypertensive adverse reaction
+54477,poisoning overdose ace angiotensin converting enzyme blocker nitrate alpha,Antihypertensive overdose
+54521,poisoning overdose cephalosporin penicillin tetracycline erythromycin,Antibacterial drug overdose
+54657,poisoning overdose caffeine,Poisoning by caffeine
+54663,poisoning cleaning bleach household product weedkiller petrol,Poisoning caused by household product
+54664,plant toxic contact poison berry mushroom fungus toadstool ivy toxin,Toxic effect of plant
+55100,venom envenomation bite sting animal bee wasp jellyfish snake spider,Toxic effect of venom
+55180,poisoning warfarin noac doac,Anticoagulant overdosage
+55187,poisoning iron ferrous,Iron and/or iron compound overdose
+55191,poisoning exhaust boiler carbon monoxide,Toxic effect of carbon monoxide
+55230,poisoning cyanide,Toxic effect of cyanide
+55232,methaemoglobinaemia poisoning oxidation,Methaemoglobinaemia
+55240,ethylene glycol methanol alcohol toxic antifreeze meths,Ethylene glycol poisoning
+55241,ethylene glycol methanol alcohol toxic antifreeze meths,Methyl alcohol causing toxic effect
+55243,serotonin syndrome ssri snri,Serotonin syndrome
+55244,Anticholinergic syndrome dry Acetylcholine receptor antagonist poisoning,Acetylcholine receptor antagonist poisoning
+55269,cholinergic syndrome crisis organophosphate nerve poison vx sarin mudpiles salivation lacrimation,Poisoning by parasympathomimetic drug
+55300,inhalation toxic gas vapour carbon monoxide cyanide fire,Toxic inhalation injury
+55302,inhalation toxic smoke gas vapour fire carbon monoxide,Smoke inhalation injury
+55303,cyanide weedkiller paraquat insecticide overdose,Poisoning
+58368,intoxicated ethanol alcohol drunk delirium tremens dt addiction,Alcohol intoxication
+58371,alcohol dependence syndrome dt delirium tremens addiction,Alcohol dependence
+58382,alcohol withdrawal syndrome dt delirium tremens addiction,Alcohol withdrawal
+58383,alcohol withdrawal seizure fit dt delirium tremens addiction,Alcohol withdrawal-induced convulsion
+58384,drug induced seizure withdrawal intoxication speed amphetamine cocaine meth ice spice fit dt delirium tremens addiction,Drug-induced seizure
+58385,poisoning hallucinogen psychotropic intoxication drug cocaine crack ecstasy MDMA amphetamine speed crystal meth GBL GHB LSD acid khat qat cannabis skunk marijuana magic mushrooms ketamine mephedrone psychoactive spice substance addiction dependence,Illicit drug use
+58391,dependence sedatives hypnotics addiction benzo benzodiazepine diazepam lorazepam alprazolam zopiclone zolpidem chlordiazepoxide clobazam clonazepam temazepam flumazenil,Anxiolytic dependence
+58398,dependence sedatives hypnotics addiction benzo benzodiazepine diazepam lorazepam alprazolam zopiclone zolpidem chlordiazepoxide clobazam clonazepam temazepam flumazenil,Hypnotic dependence
+58402,dependence addiction opioids opium opiate narcotics heroin morphine diamorphine codeine oxycodone pethidine tramadol naloxone naltrexone methadone buprenorphine fentanyl,Opioid dependence
+58418,needlestick needle stick splash body fluid exposure hiv hepatitis,Exposure to blood and/or body fluid
+58419,post exposure prophylaxis pep pepse pepsi hiv unprotected intercourse hepatitis,Post-exposure prophylaxis
+58425,hypothermia cold injury frostbite,Hypothermia caused by cold environment
+58426,cold injury frostbite frostnip chill blains,Cold injury
+58466,heat stroke hyperthermia,Heat stroke
+58469,heat injury burn scald heat stroke rash dizziness,Effects of heat
+58488,caisson bends barotrauma diving decompression sickness bent swimming,Diving barotrauma
+58491,drowning immersion submersion swimming water,Drowning and non-fatal immersion
+58493,social problem placement,Social problem
+58494,homelessness housing sleeping rough,Homeless
+58506,malnutrition nutrition food water beri kwashiokor scurvy vitamin pellagra,Nutritional disorder
+58718,safeguarding abuse neglect nai non-accidental injury social elder marriage radicalisation fgm slavery,Problem related to social environment
+58719,adverse effect side medication drug poisoning toxic,Medication side effects present
+58720,complication drug pharmaceutical sensitivity allergy,Adverse reaction to drug
+60064,complication X-ray CT MRI biopsy colonocopy allergy,Complication of diagnostic procedure
+60068,surgery complication infection,Disorder following clinical procedure
+61203,complication central arterial intravenous line catheter,Complication of intravascular line
+61217,complication medical device pacemaker ICD implant prosthesis,Complication associated with device
+61562,complication blood plasma platelets red cells,Blood transfusion reaction
+61592,complication ealthcare associated infection nosocomial,Healthcare associated infectious disease
+61599,nad no abnormality detected worried well normal,No abnormality detected
+61609,surgery complication infection wound care sutures dressing stitches clips staple,Post-surgical wound care
+61611,palliative care hospice nursing,Palliative care
+61617,attention to surgical dressings,Attention to dressing of skin
+61624,attention to sutures,Attention to sutures
+61625,plaster check,Attention to plaster cast
+61626,medication repeat prescription drug,Renewal of prescription
+61632,laboratory specimen sample urine blood,Specimen collection
+61805,medical certificate sick note,Miscellaneous certificate request
+61806,left before seen clinical assessment,Patient walked out
+61808,sudden infant death syndrome unexpected infancy sudi sids baby,Sudden infant death syndrome
+61810,death died dead,Died in accident and emergency department
+61811,doa dead arrival died death,Dead on arrival in accident and emergency department
